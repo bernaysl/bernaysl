@@ -1,7 +1,8 @@
 
 <p align="center">Hello World, I'm Berna
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=radical) 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical)
 </p>
