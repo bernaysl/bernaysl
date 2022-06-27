@@ -1,8 +1,8 @@
 
-<p align="center">Hello World, I'm Berna
+<p align="center">Hello World, I'm Berna</p>
+<p align="center">![Github stats 1](https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=radical)</p>
+<p align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical)</p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical)
-</p>
 
 <!--
 **bernaysl/bernaysl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
