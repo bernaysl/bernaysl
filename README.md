@@ -1,4 +1,5 @@
-### Hi there 👋
+
+<p align="center"><a href="https://bernaysl.github.io"><img width="80%" alt="Hello World, I'm Berna" /></a></p>
 
 <!--
 **bernaysl/bernaysl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
