@@ -1,7 +1,7 @@
 
-<p align="center">Hello World, I'm Berna
+<p align="center">Hello World, I'm Berna </p>
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical) </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical)
 
 
 <!--
