@@ -1,5 +1,10 @@
 
-<p align="center">Hello World, I'm Berna</p>
+<p align="center">Hello World, I'm Berna
+<br>
+(https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=radical) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical)
+</p>
 
 <!--
 **bernaysl/bernaysl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical)
+![Anurag's GitHub stats]
+-->
