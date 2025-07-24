@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="250" />
+</p>
+
+
 
 <h1 align="center">🤖 Hey, I'm Berna</h1>
 <h3 align="center">Data Analyst • AI Developer</h3>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F6FF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Designing+AI-powered+solutions...;Exploring+neural+networks+and+beyond."/>
@@ -9,8 +15,6 @@
 <p align="center">
   <img src="https://github.com/bernaysl/bernaysl/blob/main/assets/ai-banner.gif" width="100%"/>
 </p>
-
-
 
 ---
 
