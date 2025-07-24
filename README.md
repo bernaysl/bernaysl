@@ -1,33 +1,39 @@
 
-<p align="center">Hello World, I'm Berna </p>
+<h1 align="center">🤖 Hey, I'm Berna</h1>
+<h3 align="center">Data Analyst • AI Developer</h3>
 
-<!--- snake
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F6FF&center=true&vCenter=true&width=600&lines=Turning+data+into+decisions...;Designing+AI-powered+solutions...;Exploring+neural+networks+and+beyond."/>
+</p>
 
-
-
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=radical)       
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github.com/bernaysl/bernaysl/blob/main/assets/ai-banner.gif" width="100%"/>
+</p>
 
 
-<!--
-**bernaysl/bernaysl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🪄 AI Contributions & Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bernaysl&theme=algolia&margin-w=10&margin-h=15" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Insights
+<p align="center" style="background:#0d1117; padding:20px; border-radius:15px; box-shadow: 0 0 15px #00f6ff;">
+  <img src="https://github-readme-stats.vercel.app/api?username=bernaysl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&rank_icon=true" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernaysl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
 
--->
+---
 
+### 🔍 Data-Driven Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bernaysl&theme=github-compact&hide_border=true"/>
+</p>
